@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+qna_tool
+*.pyc
+paragraph_*.txt
+query.txt
+response.txt
+A7_COL106_v1 (1).pdf
+corpus/mahatma-gandhi-collected-works-volume-*
+report.pdf

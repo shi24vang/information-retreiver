@@ -1,0 +1,11 @@
+# Build outputs
+qna_tool
+*.o
+
+# Generated query/summary artifacts
+paragraph_*.txt
+query.txt
+response.txt
+
+# Python cache
+__pycache__/
